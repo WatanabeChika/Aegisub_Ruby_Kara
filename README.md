@@ -5,7 +5,7 @@ One-click tool to add ruby annotations to Japanese subtitles and generate karaok
 
 **Note: It cannot precisely align every syllable with the timeline.**
 
-[Chinese(中文说明)](README_zh_CN.md)
+[Chinese Ver(中文说明)](README_zh_CN.md)
 
 ## Usage
 - Clone this repository.
