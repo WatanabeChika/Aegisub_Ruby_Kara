@@ -30,7 +30,7 @@ One-click tool to add ruby annotations to Japanese subtitles and generate karaok
 ### Usage Guidelines
 - Run this tool on subtitles with accurate k-values (if you are unsure about k-values, see [Karaoke Timing Tutorial](https://aegisub.org/docs/latest/karaoke_timing_tutorial/)).
 - K-value recommendations:
-  - Add k-values before and after punctuation marks.
+  - Add k-values before and after punctuation marks, **including spaces**.
   - Words that require ruby annotation should have their own k-values.
 - Karaoke style:
   - You need to predefine your subtitle style and template lines. Adjust the font color, size, and duration according to your specific requirements.
