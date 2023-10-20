@@ -8,12 +8,12 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../CHASE!.mp4
-Video File: ../CHASE!.mp4
+Audio File: CHASE!.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 25
+Scroll Position: 3
+Active Line: 14
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,9 +35,9 @@ Dialogue: 0,0:00:29.30,0:00:37.10,Default,NTP,0,0,0,,{\k114}大事{\k110}な{\k2
 Dialogue: 0,0:00:37.15,0:00:40.33,Default,NTP,0,0,0,,{\k71}昨日{\k35}には{\k65}もう{\k70}バイバイ{\k46}し{\k31}て
 Dialogue: 0,0:00:40.38,0:00:42.95,Default,NTP,0,0,0,,{\kf26}繰{\kf17}り{\kf33}返{\kf48}した {\kf80}リスク{\kf16}と{\kf37}後悔
 Dialogue: 0,0:00:43.06,0:00:48.42,Default,NTP,0,0,0,,{\kf31}言{\kf31}い{\kf40}訳{\kf50}ばか{\kf28}り{\kf70}探{\kf32}して{\kf28}決{\kf90}め{\kf136}つけた
-Dialogue: 0,0:00:48.47,0:00:51.19,Default,NTP,0,0,0,,{\kf37}振り{\kf44}回{\kf54}すの{\kf40}は{\kf36}や{\kf61}めて
+Dialogue: 0,0:00:48.47,0:00:51.19,Default,NTP,0,0,0,,{\kf29}振{\kf8}り{\kf44}回{\kf54}すの{\kf40}は{\kf36}や{\kf61}めて
 Dialogue: 0,0:00:51.87,0:00:56.75,Default,NTP,0,0,0,,{\kf43}足{\kf30}を{\kf38}踏{\kf38}み{\kf14}出{\kf53}す {\kf109}最初{\kf34}は{\kf42}こ{\kf32}わい{\kf55}かも
-Dialogue: 0,0:00:56.80,0:01:02.54,Default,NTP,0,0,0,,{\kf90}でも{\kf70}「進{\kf42}み{\kf66}たい」{\kf74}その{\kf84}心{\kf42}が{\kf36}あ{\kf70}れば!
+Dialogue: 0,0:00:56.80,0:01:02.54,Default,NTP,0,0,0,,{\kf90}でも{\kf1}「{\kf35}進{\kf42}み{\kf66}たい」{\kf74}その{\kf84}心{\kf42}が{\kf36}あ{\kf104}れば!
 Dialogue: 0,0:01:02.90,0:01:08.47,Default,NTP,0,0,0,,{\kf40}走{\kf34}り{\kf22}出{\kf48}し{\kf68}た! {\kf54}思{\kf30}い{\kf42}は{\kf50}強{\kf12}く{\kf114}する{\kf43}よ
 Dialogue: 0,0:01:08.52,0:01:14.10,Default,NTP,0,0,0,,{\kf78}悩{\kf32}ん{\kf103}だら {\kf89}君{\kf36}の{\kf40}手{\kf31}を{\kf97}握{\kf32}ろ{\kf20}う
 Dialogue: 0,0:01:14.10,0:01:19.65,Default,NTP,0,0,0,,{\kf66}な{\kf50}りたい{\kf120}自分{\kf42}を{\kf62}我慢{\kf94}しない{\kf48}で{\kf38}いい{\kf35}よ
