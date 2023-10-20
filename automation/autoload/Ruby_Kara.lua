@@ -318,7 +318,7 @@ local function macro_set_style(subtitles, selected_lines, active_line)
         {class="label", label="Advance time (ms):", x=0, y=1},
         {class="floatedit", name="advance_time", value="100", x=1, y=1},
         {class="label", label="Seperation threshold (ms):", x=0, y=2},
-        {class="floatedit", name="sep_threshold", value="2000", x=1, y=2}
+        {class="floatedit", name="sep_threshold", value="200000", x=1, y=2}
     }
     btn, result = aegisub.dialog.display(config)
     if btn then
